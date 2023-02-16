@@ -1,0 +1,4 @@
+Excel büyük verilerde tarihsel filtreleme işlemi yapılmıştır. 
+Ham verideki herhangi bir ekleme oluşturduğum Power Quarry dosyasını yenilendiğinde eklenecektir. 
+Verimiz tarihsel bir data olduğu için gün geçtikçe son kullanma tarihi geçen üründe artış gözlemlenecektir.
+ 
